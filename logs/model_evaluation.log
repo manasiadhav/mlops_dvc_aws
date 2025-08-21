@@ -8,3 +8,8 @@
 2025-07-24 10:09:29,930 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
 2025-07-24 10:09:29,946 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.967509 , precision : 0.913043, recall : 0.750000, auc: 0.870984
 2025-07-24 10:09:30,349 - model_evaluation - ERROR - Unexpected error : Empty git repo
+2025-07-24 10:26:37,580 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-24 10:26:37,758 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-24 10:26:37,766 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-24 10:26:37,785 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.967509 , precision : 0.913043, recall : 0.750000, auc: 0.870984
+2025-07-24 10:26:38,159 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
